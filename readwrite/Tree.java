@@ -59,14 +59,14 @@ public class Tree{
         return root.key;
     }
 
-    public static void main( String[] args){
+//     public static void main( String[] args){
         
-        Tree tree = new Tree();
-        tree.write(55);
-        tree.write(52);
-        tree.write(47);
-        tree.write(56);
-        System.out.println(tree.read(53));
+//         Tree tree = new Tree();
+//         tree.write(55);
+//         tree.write(52);
+//         tree.write(47);
+//         tree.write(56);
+//         System.out.println(tree.read(53));
        
-    }
+//     }
 }
